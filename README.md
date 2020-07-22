@@ -1,4 +1,8 @@
-### Hi there 👋
+### Abhik Ahuja
+
+I'm a Software Engineer studying Computer Science and Mathematics at UC Berkeley. I'm always looking to collaborate on a project or learn a new skill :)
+
+![origamiman72's GitHub stats](https://github-readme-stats.vercel.app/api?username=origamiman72&hide_rank=true&hide_border=true&show_icons=true)
 
 <!--
 **origamiman72/origamiman72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
