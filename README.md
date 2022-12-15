@@ -1,6 +1,6 @@
 ### Abhik Ahuja
 
-I'm a Software Engineer studying Computer Science and Mathematics at UC Berkeley. I'm always looking to collaborate on a project or learn a new skill :)
+I'm currently studying Computer Science and Mathematics at UC Berkeley. I am interested in 3D vision and Computational Photography :)
 
 ![origamiman72's GitHub stats](https://github-readme-stats.vercel.app/api?username=origamiman72&hide_rank=true&hide_border=true&show_icons=true)
 
