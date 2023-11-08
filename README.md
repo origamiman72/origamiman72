@@ -1,6 +1,6 @@
 ### Abhik Ahuja
 
-I'm currently studying Computer Science and Mathematics at UC Berkeley. I am interested in 3D vision and Computational Photography :)
+I'm currently studying Computer Vision at the University of Cambridge. Previously I studied Computer Science and Mathematics at UC Berkeley. I am interested in 3D vision and Computational Photography :)
 
 ![origamiman72's GitHub stats](https://github-readme-stats.vercel.app/api?username=origamiman72&hide_rank=true&hide_border=true&show_icons=true)
 
